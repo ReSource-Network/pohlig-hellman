@@ -1,6 +1,6 @@
 {
   "name": "pohlig-hellman",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Pohlig-Hellman cipher for Node.js",
   "keywords": [
     "pohlig",
@@ -10,17 +10,11 @@
   ],
   "main": "index.js",
   "typings": "pohlig-hellman.d.ts",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/herculesinc/pohlig-hellman.git/"
-  },
+  "repository": "https://github.com/ResourceNetwork/pohlig-hellman.git",
   "license": "MIT",
-  "author": {
-    "name": "irakliy",
-    "email": "irakliy81@live.com"
-  },
+  "author": "dev@resourcenetwork.co",
   "engines": {
-    "node": "6.13.1"
+    "node": "16.1.0"
   },
   "devDependencies": {
     "chai": "4.1.x",
