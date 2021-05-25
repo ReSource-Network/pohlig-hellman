@@ -22,9 +22,11 @@
     "gulp": "3.9.x",
     "gulp-mocha": "5.0.x",
     "gulp-sync": "0.1.x",
-    "mocha": "5.0.x"
+    "mocha": "5.0.x",
+    "ts-node": "^10.0.0"
   },
   "dependencies": {
+    "@types/node": "^15.6.1",
     "jsbn": "1.1.X"
   }
 }
